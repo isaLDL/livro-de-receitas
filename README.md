@@ -4,3 +4,4 @@ Olá! Bem vindos ao meu livro de receitas, aproveite!
 
 - Estrogonofe de Popó
 - Tacacá
+- Lasanha de Frango
